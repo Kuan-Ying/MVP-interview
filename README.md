@@ -11,3 +11,5 @@ Sample usage:
   <StyledLink href="#">This is a styled link</StyledLink>
 <ToolTip/>
 ```
+
+<img src="https://i.imgur.com/Z9IMWUc.png" width="400">
