@@ -1,7 +1,8 @@
 # MVP-interview
 A demonstration of tooltip react component with styled-components.
-To use ToolTip component, wrap it with your React component.
 
+To use ToolTip component, wrap it with your React component,
+and assign the ToolTip message to the value attribute.
 Sample usage:
 ```html
 <ToolTip value="Tooltip"> 
