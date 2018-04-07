@@ -15,8 +15,8 @@ class App extends React.Component {
         <ToolTip value="Tooltip text!"><StyledLink href="#">This is a Link</StyledLink></ToolTip>
         <ToolTip value="Tooltip text!"><a href="#">This is a default Link</a></ToolTip>
       </AppContainer>
-    );
+    )
   }
 }
 
-export default App;
+export default App
